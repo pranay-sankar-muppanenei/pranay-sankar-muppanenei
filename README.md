@@ -3,9 +3,9 @@ My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack W
 - 🔭 I recently built a video streaming app using (react.js and node.js) check it out here [](shanksnxtwatch.ccbp.tech)
 - 🌱 I’m currently learning Data structures and algorithms in precise learning Graphs
 - 🤔 I’m looking for help with Contributing to open source projects and organizations.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬  Ask me about React, Node.js, Express, web app deployment, or my experience preparing for GSoC
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranay-sankar-muppaneni-05906025b/),[EMAIL](ro200341@rguktong.ac.in)
+- 😄 Pronouns: He/Him
 
 <!--
 **pranay-sankar-muppanenei/pranay-sankar-muppanenei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
