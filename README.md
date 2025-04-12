@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Pranay, I am an undergraduate from IIT-AP interested in Full Stack Web development
-- 🔭 I recently built some ...
+My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack Web development
+- 🔭 I recently built a video streaming app using (react.js and node.js) check it out here [](shanksnxtwatch.ccbp.tech)
 - 🌱 I’m currently learning Data structures and algorithms in precise learning Graphs
 - 🤔 I’m looking for help with Contributing to open source projects and organizations.
 - 💬 Ask me about ...
