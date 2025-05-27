@@ -1,4 +1,4 @@
-## Hi there 👋,I'm <code style="color : blue">Pranay Sankar</code>
+# Hey there 👋,I'm Pranay Sankar
 My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack Web development
 - 🔭 I recently built a video streaming app using (react.js and node.js) check it out [here](shanksnxtwatch.ccbp.tech)
 - 🌱 I’m currently learning Data structures and algorithms in precise learning Graphs
@@ -19,6 +19,18 @@ My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack W
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranay-sankar-muppanenei&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-sankar-muppanenei&layout=compact&theme=tokyonight)
+
+# 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranay-sankar-muppaneni-05906025b/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pranay-sankar-muppanenei)
+
 
 <!--
 **pranay-sankar-muppanenei/pranay-sankar-muppanenei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
