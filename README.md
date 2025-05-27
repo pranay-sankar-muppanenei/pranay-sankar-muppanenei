@@ -1,4 +1,4 @@
-# Hey there 👋,I'm Pranay Sankar
+# Hey there I'm Pranay Sankar
 My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack Web development
 - 🔭 I recently built a video streaming app using (react.js and node.js) check it out [here](shanksnxtwatch.ccbp.tech)
 - 🌱 I’m currently learning Data structures and algorithms in precise learning Graphs
