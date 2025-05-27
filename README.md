@@ -23,16 +23,9 @@ My name is Pranay, I am an undergraduate from IIIT-AP interested in Full Stack W
 </p>
 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pranay-sankar-muppanenei&show_icons=true&theme=radical" width="450" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-sankar-muppanenei&theme=radical" width="450" alt="GitHub Streaks" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-sankar-muppanenei&layout=compact&theme=radical" width="400" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranay-sankar-muppanenei&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-sankar-muppanenei&layout=compact&theme=tokyonight)
     </td>
   </tr>
 </table>
