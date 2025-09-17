@@ -1,4 +1,5 @@
-# Hey there, I'm [Pranay Sankar](https://my-portfolio-xi-nine-42.vercel.app/) 👋
+# Hey there, I'm [Pranay Sankar](https://my-portfolio-xi-nine-42.vercel.app/) 👋 ([Portfolio 🔗](https://my-portfolio-xi-nine-42.vercel.app/))
+
 
 My name is Pranay, I am an undergraduate from IIIT-AP and a **Full Stack Web Developer** passionate about building modern, scalable, and user-friendly applications.  
 
