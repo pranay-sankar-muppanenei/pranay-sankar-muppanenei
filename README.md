@@ -33,6 +33,7 @@ My name is Pranay, I am an undergraduate from IIIT-AP and a **Full Stack Web Dev
 
 ## 🚀 Projects  
 
+- **[Linkedin Automation(make.com)]([https://github.com/pranay-sankar-muppanenei/yt-automation-n8n-/tree/master](https://eu1.make.com/public/shared-scenario/7lwSl8VqwV3/integration-google-sheets))** – Built Linkedin automation workflows integrating Excel sheets,Ai summarizers to nullify manual effort of creating posts  
 - **[N8N Workflow Automation](https://github.com/pranay-sankar-muppanenei/yt-automation-n8n-/tree/master)** – Built automation workflows integrating APIs (Pexels, Gmail, YouTube) to reduce manual effort  
 - **[Nxt Trendz](https://shanksnxttrendz.ccbp.tech/login)** – E-commerce platform (React Router, JWT auth, REST APIs)  
 - **[Nxt Watch](https://shanksnxtwatch.ccbp.tech/login)** – YouTube-like video streaming app with search, theme toggle, and protected routes  
