@@ -2,7 +2,7 @@
 
 
 My name is Pranay, I am an undergraduate from IIIT-AP and a **Full Stack Web Developer** passionate about building modern, scalable, and user-friendly applications.  
-
+- 💡 Building AUA(Are u Alive) a full-stack web app inspired from a chinese app.  
 - 🔭 Completed a **2-month Frontend Developer Internship at Yashik Yadav & Co. (July–Aug 2025)**  
 - 🌱 Learning **Data Structures and Algorithms**, currently focusing on **Graphs**  
 - 🤝 Open to collaborating on **Open Source projects and organizations**  
